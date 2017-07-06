@@ -7,8 +7,8 @@
  */
 ?>
 <!--Plugins-->
-<script src="js/jquery.js"></script>
-<script src="js/plugins.js"></script>
+<script src="_js/jquery.js"></script>
+<script src="_js/plugins.js"></script>
 
 <!--Template functions-->
-<script src="js/functions.js"></script>
+<script src="_js/functions.js"></script>

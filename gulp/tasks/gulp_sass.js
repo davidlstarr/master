@@ -38,7 +38,7 @@ var ChangeEvent = function (evt) {
 };
 
 gulp.task('sass',['_sass_compressed','__css_timestamp_version'], function () {
-    return gulp.src('innovate/sass/*.scss')
+    return gulp.src('sass/*.scss')
         .pipe($.plumber({
             errorHandler: onError
         }))
@@ -72,7 +72,7 @@ gulp.task('sass',['_sass_compressed','__css_timestamp_version'], function () {
 });
 
 gulp.task('_sass_compressed', function () {
-    return gulp.src('innovate/sass/*.scss')
+    return gulp.src('sass/*.scss')
         .pipe($.plumber({
             errorHandler: onError
         }))
@@ -106,20 +106,10 @@ gulp.task('_sass_compressed', function () {
 });
 
 gulp.task('sass:watch', function () {
-    gulp.watch('innovate/sass/**/*.scss', ['sass']);
-    gulp.watch('vendor/sass/**/*.scss', ['sass']);
-    gulp.watch('vendor_static/sass/**/*.scss', ['sass']);
-    gulp.watch('innovate/sass/**/*.scss', ['_sass_compressed']);
-    gulp.watch('vendor/sass/**/*.scss', ['_sass_compressed']);
-    gulp.watch('vendor_static/sass/**/*.scss', ['_sass_compressed']);
+    gulp.watch('sass/**/*.scss', ['sass']);
+    gulp.watch('sass/**/*.scss', ['_sass_compressed']);
     //IF CSS files in _css FOLDER changes, create a new cachebuster file
-    gulp.watch('innovate/sass/**/*.scss', ['__timestamp_version']).on('change', function (evt) {
-        ChangeEvent(evt);
-    });
-    gulp.watch('vendor/sass/**/*.scss', ['__timestamp_version']).on('change', function (evt) {
-        ChangeEvent(evt);
-    });
-    gulp.watch('vendor_static/sass/**/*.scss', ['__timestamp_version']).on('change', function (evt) {
+    gulp.watch('sass/**/*.scss', ['__timestamp_version']).on('change', function (evt) {
         ChangeEvent(evt);
     });
 });

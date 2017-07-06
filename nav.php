@@ -200,7 +200,7 @@
                     </ul>
                 </li>
                 <li class="dropdown mega-menu-item"> <a href="#">Elements</a>
-                    <ul class="dropdown-menu" style="background-image: url('images/shortcode-megamenu-bg.png');">
+                    <ul class="dropdown-menu" style="background-image: url('/_img/shortcode-megamenu-bg.png');">
                         <li class="mega-menu-content">
                             <div class="row">
                                 <div class="col-md-2">

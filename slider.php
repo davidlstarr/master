@@ -8,7 +8,7 @@
 ?>
 <div id="slider" class="inspiro-slider slider-halfscreen arrows-large arrows-creative dots-creative" data-height-xs="360" data-autoplay-timeout="2600" data-animate-in="fadeIn" data-animate-out="fadeOut" data-items="1" data-loop="true" data-autoplay="true">
     <!-- Slide 1 -->
-    <div class="slide background-overlay-one background-image" style="background-image:url('homepages/corporate-v4/images/7.jpg');">
+    <div class="slide background-overlay-one background-image" style="background-image:url('_img/7.jpg');">
         <div class="container">
             <div class="slide-captions text-center">
                 <!-- Captions -->
@@ -24,7 +24,7 @@
     </div>
     <!-- end: Slide 1 -->
     <!-- Slide 2 -->
-    <div class="slide background-overlay-one background-image" style="background-image:url('homepages/corporate-v4/images/8.jpg');">
+    <div class="slide background-overlay-one background-image" style="background-image:url('_img/8.jpg');">
         <div class="container">
             <div class="slide-captions text-center">
                 <!-- Captions -->

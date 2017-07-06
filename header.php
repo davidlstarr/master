@@ -11,7 +11,7 @@
         <div class="container">
             <!--Logo-->
             <div id="logo">
-                <a href="index.html" class="logo" data-dark-logo="images/logo-dark.png"> <img src="images/logo.png" alt="Polo Logo"> </a>
+                <a href="index.html" class="logo" data-dark-logo="_img/logo-dark.png"> <img src="_img/mm_logo.png" alt="Polo Logo"> </a>
             </div>
             <!--End: Logo-->
 

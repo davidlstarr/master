@@ -13,7 +13,7 @@
             <div class="row">
                 <div class="col-md-4">
                     <!-- Footer widget area 1 -->
-                    <div class="widget clearfix widget-contact-us" style="background-image: url('images/world-map-dark.png'); background-position: 50% 20px; background-repeat: no-repeat">
+                    <div class="widget clearfix widget-contact-us" style="background-image: url('/_img/world-map-dark.png'); background-position: 50% 20px; background-repeat: no-repeat">
                         <h4>About POLO</h4>
                         <ul class="list-icon">
                             <li><i class="fa fa-map-marker"></i> 795 Folsom Ave, Suite 600
