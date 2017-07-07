@@ -11,7 +11,11 @@
         <nav>
             <ul>
                 <li><a href="index.html">Home</a></li>
-                <li class="dropdown"> <a href="#">Features</a>
+                <li><a href="#">About Us</a></li>
+                <li><a href="#">Services</a></li>
+                <li><a href="#">Our Team</a></li>
+                <li><a href="#">Contact Us</a></li>
+                <?php/*<li class="dropdown"> <a href="#">Features</a>
                     <ul class="dropdown-menu">
                         <li class="dropdown-submenu"><a href="#"><i class="fa fa-heart"></i>Headers</a>
                             <ul class="dropdown-menu">
@@ -510,7 +514,8 @@
                             </div>
                         </li>
                     </ul>
-                </li> <li class="dropdown mega-menu-item"> <a href="#">Blog</a>
+                </li>
+                <li class="dropdown mega-menu-item"> <a href="#">Blog</a>
                     <ul class="dropdown-menu">
                         <li class="mega-menu-content">
                             <div class="row">
@@ -650,7 +655,7 @@
                             </div>
                         </li>
                     </ul>
-                </li>
+                </li>*/?>
             </ul>
         </nav>
     </div>

@@ -230,6 +230,27 @@ padding: 0 45px;
             color: #fff;
         }
     }
+    &.btn-green {
+        background-color: $green;
+        border-color: $green;
+        border-radius: 32px;
+        font-size: 18px;
+        padding: 16px 22px 16px 31px;
+        font-weight: 800;
+        text-shadow: none !important;
+        &:hover,
+        &:focus,
+        &:active,
+        &.active {
+            background-color: $blue;
+            border-color: $blue;
+            color: #fff;
+        }
+        .fa{
+            font-size: 20px !important;
+            font-weight: 600;
+        }
+    }
     //Sliding buttons
     &.btn-slide {
         border-radius: 50px;

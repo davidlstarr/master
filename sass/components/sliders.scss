@@ -124,11 +124,11 @@
             color: $white;
         }
         h2 {
-            font-size: 60px;
             font-weight: 700;
-            line-height: 68px;
-            margin-bottom: 30px;
-            color: $white;
+            font-size: 41px !important;
+            line-height: 43px;
+            margin-bottom: 2px;
+            color: #38B544 !important;
         }
         h3,
         h4,
@@ -158,10 +158,11 @@
         }
         >p {
             color: $white;
-            font-size: 34px;
-            font-weight: 300;
-            line-height: 50px;
-            margin-bottom: 40px;
+            font-size: 28px;
+            font-weight: 700;
+            line-height: 43px;
+            margin-bottom: 15px;
+            font-style: italic;
         }
         .text-dark.strong::after,
         &.text-dark .strong::after {

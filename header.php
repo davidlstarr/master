@@ -11,20 +11,20 @@
         <div class="container">
             <!--Logo-->
             <div id="logo">
-                <a href="index.html" class="logo" data-dark-logo="_img/logo-dark.png"> <img src="_img/mm_logo.png" alt="Polo Logo"> </a>
+                <a href="index.html" class="logo" data-dark-logo="_img/logo-dark.png"> <img src="_img/mm_logo2.png" alt="Polo Logo"> </a>
             </div>
             <!--End: Logo-->
 
             <!--Top Search Form-->
-            <div id="top-search">
+           <!-- <div id="top-search">
                 <form action="search-results-page.html" method="get">
                     <input type="text" name="q" class="form-control" value="" placeholder="Start typing & press  &quot;Enter&quot;">
                 </form>
-            </div>
+            </div>-->
             <!--end: Top Search Form-->
 
             <!--Header Extras-->
-            <div class="header-extras">
+            <?php/*<div class="header-extras">
                 <ul>
                     <li>
                         <!--top search-->
@@ -44,7 +44,7 @@
                         </div>
                     </li>
                 </ul>
-            </div>
+            </div>*/?>
             <!--end: Header Extras-->
 
             <!--Navigation Resposnive Trigger-->

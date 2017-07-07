@@ -20,10 +20,12 @@
 <!-- end: WELCOME -->
 
 <!-- WHAT WE DO -->
-<section class="background-grey">
+<section>
     <div class="container">
         <div class="heading text-left">
-            <h2>WHAT WE DO</h2>
+            <div class="heading content-headline">
+                <h2>ABOUT US</h2>
+            </div>
             <span class="lead">Create amam ipsum dolor sit amet, consectetur adipiscing elit.</span> </div>
         <div class="row">
             <div class="col-md-4">

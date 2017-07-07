@@ -9,8 +9,6 @@ _php/mysql.php
 /template
 
 #so you can generate your own css, using compass, fonts using gulp and js using gulp
-/_fonts/
-/_img/
 /_test/
 #so you can generate your own build, using gulp
 /build/
