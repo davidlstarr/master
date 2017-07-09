@@ -5,7 +5,6 @@ composer.phar
 /domain.php
 _php/mysql.php
 /.htaccess*
-/local_or_live.php
 /template
 
 #so you can generate your own css, using compass, fonts using gulp and js using gulp
@@ -56,5 +55,4 @@ jspm_packages
 /android-*
 
 # generated from templates
-/cache_buster.php
-/brand/gulp/coder.js
+
