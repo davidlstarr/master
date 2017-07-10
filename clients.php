@@ -6,11 +6,13 @@
  * Time: 7:16 PM
  */
 ?>
-<section class="p-t-60">
+<section class="p-t-60 background-grey">
     <div class="container">
-        <div class="heading heading-center">
-            <h2>CLIENTS</h2>
-            <span class="lead">Our awesome clients we've had the pleasure to work with! </span> </div>
+        <div class="heading text-left">
+            <div class="heading content-headline">
+                <h2 style="background-color: #F6F6F6">CLIENTS</h2>
+            </div>
+        </div>
         <div class="carousel" data-items="6" data-items-sm="4" data-items-xs="3"  data-items-xxs="2"  data-margin="20" data-arrows="false" data-autoplay="true" data-autoplay-timeout="3000" data-loop="true">
             <div>
                 <a href="#"><img alt="" src="_img/clients/1.png"> </a>

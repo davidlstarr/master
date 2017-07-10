@@ -22,12 +22,16 @@
         <?php include(__DIR__ . '/welcome.php'); ?>
 
         <!-- PORTFOLIO -->
-        <?php include(__DIR__ . '/portfolio.php'); ?>
+        <?php /*include(__DIR__ . '/portfolio.php'); */?>
         <!-- end: PORTFOLIO -->
 
         <!-- SERVICES -->
         <?php include(__DIR__ . '/services.php'); ?>
         <!-- end: SERVICES -->
+
+        <!-- TESTIMONIALS -->
+        <?php include(__DIR__ . '/testimonials.php'); ?>
+        <!-- end: TESTIMONIALS -->
 
         <!-- CLIENTS -->
         <?php include(__DIR__ . '/clients.php'); ?>

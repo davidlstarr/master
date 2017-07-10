@@ -26,45 +26,40 @@
             <div class="heading content-headline">
                 <h2>ABOUT US</h2>
             </div>
-            <span class="lead">Create amam ipsum dolor sit amet, consectetur adipiscing elit.</span> </div>
-        <div class="row">
-            <div class="col-md-4">
-                <div class="" data-animation="fadeInUp" data-animation-delay="0">
-                    <h4>Modern Design</h4>
-                    <p>Lorem ipsum dolor sit amet, blandit vel sapien vitae, condimentum ultricies magna et. Quisque euismod orci ut et lobortis aliquam.</p>
-                </div>
-            </div>
-            <div class="col-md-4">
-                <div class="" data-animation="fadeInUp" data-animation-delay="200">
-                    <h4>Loaded with Features</h4>
-                    <p>Lorem ipsum dolor sit amet, blandit vel sapien vitae, condimentum ultricies magna et. Quisque euismod orci ut et lobortis aliquam.</p>
-                </div>
-            </div>
-            <div class="col-md-4">
-                <div class="" data-animation="fadeInUp" data-animation-delay="400">
-                    <h4>Completely Customizable</h4>
-                    <p>Lorem ipsum dolor sit amet, blandit vel sapien vitae, condimentum ultricies magna et. Quisque euismod orci ut et lobortis aliquam.</p>
-                </div>
-            </div>
-            <div class="col-md-4">
-                <div class="" data-animation="fadeInUp" data-animation-delay="600">
-                    <h4>100% Responsive Layout</h4>
-                    <p>Lorem ipsum dolor sit amet, blandit vel sapien vitae, condimentum ultricies magna et. Quisque euismod orci ut et lobortis aliquam.</p>
-                </div>
-            </div>
-            <div class="col-md-4">
-                <div class="" data-animation="fadeInUp" data-animation-delay="800">
-                    <h4>Clean Modern Code</h4>
-                    <p>Lorem ipsum dolor sit amet, blandit vel sapien vitae, condimentum ultricies magna et. Quisque euismod orci ut et lobortis aliquam.</p>
-                </div>
-            </div>
-            <div class="col-md-4">
-                <div class="" data-animation="fadeInUp" data-animation-delay="1000">
-                    <h4>Free Updates & Support</h4>
-                    <p>Lorem ipsum dolor sit amet, blandit vel sapien vitae, condimentum ultricies magna et. Quisque euismod orci ut et lobortis aliquam.</p>
-                </div>
-            </div>
         </div>
+        <div class="row">
+            <div id="portfolio" class="col-md-6 grid-layout portfolio-1-columns" data-margin="0">
+
+                <!-- portfolio item -->
+                <div class="portfolio-item no-overlay pf-illustrations pf-media pf-icons pf-Media pf-graphics">
+                    <div class="portfolio-item-wrap">
+                        <div class="portfolio-slider">
+                            <div class="carousel dots-inside dots-dark arrows-dark" data-items="1" data-loop="true" data-autoplay="true" data-animate-in="fadeIn" data-animate-out="fadeOut" data-autoplay-timeout="1500">
+                                <a href="#"><img style="height:400px" src="_img/portfolio/IMG_0107.JPG" alt=""></a>
+                                <a href="#"><img style="height: 400px" src="_img/portfolio/IMG_0946.JPG" alt=""></a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- end: portfolio item -->
+            </div>
+            <div class="col-md-6">
+                <h3>Company Profile</h3>
+                <div class="heading heading text-left" style="margin-bottom: 10px;">
+                    <span class="lead">Established in 1981, Master Maintenance is a professional facility maintenance
+company that provides quality building services to commercial and industrial
+businesses in Ohio, Kentucky, and Indiana. We pride ourselves in providing the
+most professional service in the industry </span>
+                </div>
+                <h3>Mission Statement</h3>
+                <div class="heading heading text-left">
+                    <span class="lead">Established in 1981, Master Maintenance is a professional facility maintenance
+company that provides quality building services to commercial and industrial
+businesses in Ohio, Kentucky, and Indiana. We pride ourselves in providing the
+most professional service in the industry </span>
+                </div>
+            </div>
+
     </div>
 </section>
 <!-- END WHAT WE DO -->
