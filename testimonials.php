@@ -10,7 +10,7 @@
     <div class="container">
         <div class="heading text-left">
             <div class="heading content-headline">
-                <h2>TESTIMONIALS</h2>
+                <h2>TESTIMONIALS & CLIENTS</h2>
             </div>
         </div>
         <!-- Testimonials -->
@@ -18,25 +18,25 @@
 
             <!-- Testimonials item -->
             <div class="testimonial-item">
-                <p>Polo is by far the most amazing template out there! I literally could not be happier that I chose to buy this template!</p>
-                <span>Alan Monre</span>
-                <span>CEO, Square Software</span>
+                <p>I'm delighted to say that we are completely satisfied with the level of service provided. Your courteous staff has responded quickly to our requests.</p>
+                <span>David K. Roecker</span>
+                <span>Claims Operations Manager, Buckeye Insurance Group</span>
             </div>
             <!-- end: Testimonials item-->
 
             <!-- Testimonials item -->
             <div class="testimonial-item">
-                <p>Polo is by far the most amazing template out there! I literally could not be happier that I chose to buy this template!</p>
-                <span>Alan Monre</span>
-                <span>CEO, Square Software</span>
+                <p>During the past five years, I have been very disappointed with the many janitorial service companies that have cleaned our facility. That problem has ceased since "Master Maintenance" has been given this responsibility.</p>
+                <span>Paul Kline</span>
+                <span>Sr. Technician Supervisor, Panoramic Corporation</span>
             </div>
             <!-- end: Testimonials item-->
 
             <!-- Testimonials item -->
             <div class="testimonial-item">
-                <p>The world is a dangerous place to live; not because of the people who are evil, but because of the people who don't do anything about it.</p>
-                <span>Alan Monre</span>
-                <span>CEO, Square Software</span>
+                <p>We have been provided services since 1991 when our facility opened. We have been satisfied with their cleaning service and responsiveness to our requests. Any difficulties encountered have been handled quickly and efficiently.</p>
+                <span>Mark Schabow</span>
+                <span>Buyer/Scheduler, Aeroquip</span>
             </div>
             <!-- end: Testimonials item-->
 

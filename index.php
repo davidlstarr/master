@@ -26,8 +26,12 @@
         <!-- end: PORTFOLIO -->
 
         <!-- SERVICES -->
-        <?php include(__DIR__ . '/services.php'); ?>
+        <?php //include(__DIR__ . '/services.php'); ?>
         <!-- end: SERVICES -->
+
+        <!-- CALL TO ACTION -->
+        <?php include(__DIR__ . '/maintenance_call_to_action.php'); ?>
+        <!-- end: CALL TO ACTION -->
 
         <!-- TESTIMONIALS -->
         <?php include(__DIR__ . '/testimonials.php'); ?>

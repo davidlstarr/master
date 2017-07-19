@@ -23,15 +23,13 @@
     </div>
     <!-- end: Slide 1 -->
     <!-- Slide 2 -->
-    <div class="slide background-overlay-one background-image" style="background-image:url('_img/8.jpg');">
+    <div class="slide background-overlay-one background-image" style="background-image:url('_img/slider2.png');">
         <div class="container">
             <div class="slide-captions text-center">
                 <!-- Captions -->
-                <h6 class="text-light">WELCOME TO</h6>
-                <h2 class="text-uppercase text-medium text-light">BUSINESS COMPANY</h2>
-                <p class="lead text-light">Lorem ipsum dolor sit amet, consecte adipiscing elit.
-                    <br /> Suspendisse condimentum porttitor cursumus.</p>
-                <a class="btn btn-red" href="http://themeforest.net/item/polo-responsive-multipurpose-html5-template/13708923">Purchase POLO</a>
+                <h2 class="text-uppercase text-medium text-light">Integrity in our people<span>,</span> in our actions<span>,</span> <br>in our relationships with others</h2>
+                <p class="lead text-light">Foundation that makes us the most innovative and professional company in the industry</p>
+                <a class="btn btn-green" href="http://themeforest.net/item/polo-responsive-multipurpose-html5-template/13708923">Learn More&nbsp;<i class="fa fa-angle-right" aria-hidden="true"></i></a>
 
                 <!-- end: Captions -->
             </div>
