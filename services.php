@@ -22,7 +22,7 @@
             <div class="portfolio-item img-zoom pf-illustrations pf-media pf-icons pf-Media">
                 <div class="portfolio-item-wrap">
                     <div class="icon text-center">
-                        <div class="overlay-content">
+                        <div class="overlay-content">git
                             <h3>Office Cleaning</h3>
                             <i class="fa fa-building" aria-hidden="true"></i>
                         </div>
