@@ -15,7 +15,7 @@
         </div>
     </div>
     <div class="portfolio">
-        <!-- Portfolio Items -->
+        <!-- Portfolio Itemss -->
         <div id="portfolio" class="grid-layout portfolio-4-columns" data-margin="0">
 
             <!-- portfolio item -->
