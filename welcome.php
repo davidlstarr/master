@@ -20,7 +20,7 @@
 <!-- end: WELCOME -->
 
 <!-- WHAT WE DO -->
-<section>
+<section id="about">
     <div class="container">
         <div class="heading text-left">
             <div class="heading content-headline">

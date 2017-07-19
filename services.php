@@ -21,12 +21,18 @@
             <!-- portfolio item -->
             <div class="portfolio-item img-zoom pf-illustrations pf-media pf-icons pf-Media">
                 <div class="portfolio-item-wrap">
-                    <div class="portfolio-image">
-                        <a href="#"><img src="_img/portfolio/DSC_0563.JPG" alt=""></a>
+                    <div class="icon text-center">
+                        <div class="overlay-content">
+                            <h3>Office Cleaning</h3>
+                            <i class="fa fa-building" aria-hidden="true"></i>
+                        </div>
                     </div>
+                        <div class="portfolio-image">
+                            <a href="#"><img height="206" src="_img/portfolio/DSC_0563_resize.JPG" alt=""></a>
+                        </div>
                     <div class="portfolio-description">
                         <a href="portfolio-page-grid-gallery.html">
-                            <h3>Office Cleaning</h3>
+                           <!-- <h3>Office Cleaning</h3>-->
                             <span>sit amet tempus ipsum purus dignissim ante. </span> </a>
                     </div>
                 </div>
@@ -36,12 +42,18 @@
             <!-- portfolio item -->
             <div class="portfolio-item img-zoom pf-illustrations pf-media pf-icons pf-Media">
                 <div class="portfolio-item-wrap">
+                    <div class="icon text-center blue">
+                        <div class="overlay-content">
+                            <h3>Medical Cleaning</h3>
+                            <i class="fa fa-medkit" aria-hidden="true"></i>
+                        </div>
+                    </div>
                     <div class="portfolio-image">
                         <a href="#"><img src="_img/portfolio/IMG_0357%20(2).jpg" alt=""></a>
                     </div>
                     <div class="portfolio-description">
                         <a href="portfolio-page-grid-gallery.html">
-                            <h3>Medical Cleaning</h3>
+                           <!-- <h3>Medical Cleaning</h3>-->
                             <span>sit amet tempus ipsum purus dignissim ante. </span> </a>
                     </div>
                 </div>
@@ -51,12 +63,18 @@
             <!-- portfolio item -->
             <div class="portfolio-item img-zoom pf-illustrations pf-media pf-icons pf-Media">
                 <div class="portfolio-item-wrap">
+                    <div class="icon text-center blue2">
+                        <div class="overlay-content">
+                            <h3>Industrial Cleaning</h3>
+                            <i class="fa fa-industry" aria-hidden="true"></i>
+                        </div>
+                    </div>
                     <div class="portfolio-image">
                         <a href="#"><img src="_img/portfolio/IMG_0350.JPG" alt=""></a>
                     </div>
                     <div class="portfolio-description">
                         <a href="portfolio-page-grid-gallery.html">
-                            <h3>Industrial Cleaning</h3>
+                            <!--<h3>Industrial Cleaning</h3>-->
                             <span>sit amet tempus ipsum purus dignissim ante. </span> </a>
                     </div>
                 </div>
@@ -64,14 +82,22 @@
             <!-- end: portfolio item -->
 
             <!-- portfolio item -->
-            <div class="portfolio-item img-zoom pf-illustrations pf-media pf-icons pf-uielements pf-graphics">
+            <div class="portfolio-item img-zoom pf-illustrations pf-media pf-icons pf-Media">
                 <div class="portfolio-item-wrap">
-                    <div class="portfolio-image">
-                        <a href="#"><img src="_img/portfolio/65.jpg" alt=""></a>
+                    <div class="icon text-center maroon">
+                        <div class="overlay-content">
+                            <h3>Hotel Cleaning</h3>
+                            <i class="fa fa-bed" aria-hidden="true"></i>
+                        </div>
                     </div>
-                    <div class="portfolio-description" data-lightbox="gallery"> <a title="Photoshop Mock-up!" data-lightbox="gallery-item" href="_img/portfolio/80l.jpg"><i class="fa fa-clone"></i></a>
-                        <a title="Paper Pouch!" data-lightbox="gallery-item" href="_img/portfolio/81l.jpg" class="hidden"></a>
-                        <a title="Mock-up" data-lightbox="gallery-item" href="_img/portfolio/82l.jpg" class="hidden"></a> <a href="portfolio-page-grid-gallery.html"><i class="fa fa-link"></i></a> </div>
+                    <div class="portfolio-image">
+                        <a href="#"><img src="_img/portfolio/X%20two%20cleaners.JPG" alt=""></a>
+                    </div>
+                    <div class="portfolio-description">
+                        <a href="portfolio-page-grid-gallery.html">
+                           <!-- <h3>Industrial Cleaning</h3>-->
+                            <span>sit amet tempus ipsum purus dignissim ante. </span> </a>
+                    </div>
                 </div>
             </div>
             <!-- end: portfolio item -->

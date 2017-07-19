@@ -13,7 +13,7 @@
             <div class="slide-captions text-center">
                 <!-- Captions -->
                 <!--<h6 class="text-light">WELCOME TO</h6>-->
-                <h2 class="text-uppercase text-medium text-light">UTMOST CONVENIENCE, STRONG QUALITY, <br>DEDICATED SERVICE</h2>
+                <h2 class="text-uppercase text-medium text-light">UTMOST CONVENIENCE<span>,</span> STRONG QUALITY<span>,</span> <br>DEDICATED SERVICE</h2>
                 <p class="lead text-light">Developing People and Partnerships since 1981</p>
                 <a class="btn btn-green" href="http://themeforest.net/item/polo-responsive-multipurpose-html5-template/13708923">Get a Quote Today &nbsp;<i class="fa fa-angle-right" aria-hidden="true"></i></a>
 

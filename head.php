@@ -13,7 +13,7 @@ require_once(__DIR__ . '/cache_buster.php');
 <meta name="author" content="INSPIRO" />
 <meta name="description" content="Themeforest Template Polo">
 <!-- Document title -->
-<title>POLO | The Multi-Purpose HTML5 Template</title>
+<title>Master Maintenance</title>
 <!-- Stylesheets & Fonts -->
 <link href="http://fonts.googleapis.com/css?family=Open+Sans:300,400,800,700,600|Montserrat:400,500,600,700|Raleway:100,300,600,700,800" rel="stylesheet" type="text/css" />
 <!--<link href="css/plugins.css" rel="stylesheet">
