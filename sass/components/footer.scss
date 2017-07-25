@@ -1,4 +1,4 @@
-$white: #fff;
+    $white: #fff;
 $light-grey: #ccc;
 
 /* ----------------------------------------------------------------
@@ -49,6 +49,7 @@ footer.background-grey .copyright-content {
     padding-top: 10px;
     text-align: left;
     text-transform: uppercase;
+    color: white;
 }
 #footer-outer {
     .widget h4,
@@ -92,7 +93,7 @@ footer.background-grey .copyright-content {
             color: #898989 !important;
         }
         .copyright-content {
-            background-color: #efefef;
+            background-color: $blue;
             border-top: 1px solid #e5e5e5;
             .to-top {
                 background-color: #fff;
@@ -112,7 +113,8 @@ footer.background-grey .copyright-content {
             }
         }
         strong {
-            color: #5a5a5a;
+            color: white;
+            font-weight: 800;
         }
     }
     // Footer Dark Version 
@@ -131,7 +133,7 @@ footer.background-grey .copyright-content {
             border-top: 1px solid #222;
             min-height: 80px;
             padding: 30px 0;
-            background-color: #1a1a1a;
+            background-color: $blue;
         }
     }
     &.footer-sticky.footer-sticky-active {
