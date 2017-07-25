@@ -1271,7 +1271,7 @@ a.toggle-item:active {
 .image-hover-zoom {
     position: relative;
     overflow: hidden;
-    cursor: url('../images/expand.png'), default;
+    cursor: url('/_img/expand.png'), default;
     img {
         transition: all .4s ease;
         opacity: 1

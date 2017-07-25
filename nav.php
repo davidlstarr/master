@@ -12,10 +12,10 @@
             <ul>
                 <!--<li><a href="index.html">Home</a></li>-->
                 <li><a href="about.php">About Us</a></li>
-                <li><a href="#">Gallery</a></li>
+                <li><a href="gallery.php">Gallery</a></li>
                 <li><a href="#">Services</a></li>
                 <li><a href="team.php">Our Team</a></li>
-                <li><a href="#">Contact Us</a></li>
+                <li><a href="contact.php">Contact Us</a></li>
                 <?php/*<li class="dropdown"> <a href="#">Features</a>
                     <ul class="dropdown-menu">
                         <li class="dropdown-submenu"><a href="#"><i class="fa fa-heart"></i>Headers</a>

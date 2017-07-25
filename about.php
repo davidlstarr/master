@@ -50,14 +50,14 @@ $page_id = "about-page";
                     <div class="col-md-6">Established in 1981, Master Maintenance is a professional facility maintenance company that provides quality building services
                         to commercial and industrial businesses in Ohio, Kentucky, and Indiana. We pride ourselves in providing the most professional service in the industry.<br><br>
                         Master Maintenance is a professional janitorial and building service company dedicated to meeting the needs of its customer as identified in the work specifications. We provide services to commercial, industrial, and institutional clients who value the importance of a clean environment.<br><br>
-                        Master Maintenance believes that the most vital component of its company is our people. Through proper selection, training, fair compensation, and respect, we are committed to developing a highly motivated work team.<br><br>
+                        The most vital component of its company is the people. Through proper selection, training, fair compensation, and respect, we are committed to developing a highly motivated work team.<br><br>
                     </div>
 
                     <div class="col-md-6">
 
-                        Master Maintenance believes that by providing quality building services through our professional work team, we create a partnership that relieves the customer of responsibilities not primary to their business goals, allows our company to succeed and grow, and helps our work team to achieve both business and personal goals.<br><br>
+                        We believe that by providing quality building services through our professional work team, we create a partnership that relieves the customer of responsibilities not primary to their business goals, allows our company to succeed and grow, and helps our work team to achieve both business and personal goals.<br><br>
 
-                        Master Maintenance believes that integrity in our people, in our actions, and in our relationships with others, is the foundation that makes us the most innovative and professional company in the industry.<br><br>
+                        Integrity in our people, in our actions, and in our relationships with others, is the foundation that makes us the most innovative and professional company in the industry.<br><br>
                         <i>Developing People and Partnerships Since 1981</i>
                     </div>
 
