@@ -13,7 +13,7 @@
                 <!--<li><a href="index.html">Home</a></li>-->
                 <li><a href="about.php">About Us</a></li>
                 <li><a href="gallery.php">Gallery</a></li>
-                <li><a href="#">Services</a></li>
+                <li><a href="page-services.php">Services</a></li>
                 <li><a href="team.php">Our Team</a></li>
                 <li><a href="contact.php">Contact Us</a></li>
                 <?php/*<li class="dropdown"> <a href="#">Features</a>
