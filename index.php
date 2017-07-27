@@ -1,11 +1,13 @@
 <!DOCTYPE html>
 <html lang="en">
-
+<?php
+$page_id = 'home-page';
+?>
 <head>
     <?php include(__DIR__ . '/head.php'); ?>
 </head>
 
-<body>
+<body id="<?php echo $page_id;?>">
 
     <!-- Wrapper -->
     <div id="wrapper">

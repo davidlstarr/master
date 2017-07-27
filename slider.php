@@ -15,7 +15,7 @@
                 <!--<h6 class="text-light">WELCOME TO</h6>-->
                 <h2 class="text-uppercase text-medium text-light">UTMOST CONVENIENCE<span>,</span> STRONG QUALITY<span>,</span> <br>DEDICATED SERVICE</h2>
                 <p class="lead text-light">Developing People and Partnerships since 1981</p>
-                <a class="btn btn-green" href="http://themeforest.net/item/polo-responsive-multipurpose-html5-template/13708923">Get a Quote Today &nbsp;<i class="fa fa-angle-right" aria-hidden="true"></i></a>
+                <a class="btn btn-green" href="contact.php">Get a Quote Today &nbsp;<i class="fa fa-angle-right" aria-hidden="true"></i></a>
 
                 <!-- end: Captions -->
             </div>
@@ -29,7 +29,7 @@
                 <!-- Captions -->
                 <h2 class="text-uppercase text-medium text-light">Integrity in our people<span>,</span> in our actions<span>,</span> <br>in our relationships with others</h2>
                 <p class="lead text-light">Foundation that makes us the most innovative and professional company in the industry</p>
-                <a class="btn btn-green" href="http://themeforest.net/item/polo-responsive-multipurpose-html5-template/13708923">Learn More&nbsp;<i class="fa fa-angle-right" aria-hidden="true"></i></a>
+                <a class="btn btn-green" href="about.php">Learn More&nbsp;<i class="fa fa-angle-right" aria-hidden="true"></i></a>
 
                 <!-- end: Captions -->
             </div>

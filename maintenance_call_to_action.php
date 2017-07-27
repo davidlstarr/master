@@ -14,6 +14,6 @@
         </div>
         <p class="lead">We offer a range of services for both businesses and individuals companies, consectetur adipiscing elit. Morbi sagittis, sem quis lacinia faucibus, orci ipsum gravida tortor.</p>
 
-        <a href="#" class="btn"><span>SEE MORE SERVICES <i class="fa fa-angle-right" aria-hidden="true"></i></span></a>
+        <a href="page-services.php" class="btn"><span>SEE MORE SERVICES <i class="fa fa-angle-right" aria-hidden="true"></i></span></a>
     </div>
 </section>
