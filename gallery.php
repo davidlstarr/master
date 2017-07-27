@@ -19,21 +19,10 @@ $page_id = "contact-page";
     <!-- end: Header -->
 
     <!-- Page title -->
-    <section id="page-title" data-parallax-image="_img/parallax/5.jpg">
+    <section id="page-title" class="background-overlay-dark" data-parallax-image="_img/portfolio/X-two-cleaners.png">
         <div class="container">
             <div class="page-title">
-                <h1>Gallery 4 Columns</h1>
-                <span>Description</span>
-            </div>
-            <div class="breadcrumb">
-                <ul>
-                    <li><a href="#">Home</a>
-                    </li>
-                    <li><a href="#">Pages</a>
-                    </li>
-                    <li class="active"><a href="#">Gallery 4 Columns</a>
-                    </li>
-                </ul>
+                <h1>GALLERY</h1>
             </div>
         </div>
     </section>
@@ -44,37 +33,52 @@ $page_id = "contact-page";
         <div class="container">
 
 
-            <!-- Gallery -->
+            <!-- portfolio -->
             <div class="grid-layout grid-4-columns" data-margin="20" data-item="grid-item" data-lightbox="gallery">
                 <div class="grid-item">
-                    <a class="image-hover-zoom" href="_img/gallery/1.jpg" data-lightbox="gallery-item"><img src="_img/gallery/1.jpg"></a>
+                    <a class="image-hover-zoom" href="_img/portfolio/DSC_0563.JPG" data-lightbox="gallery-item"><img src="_img/portfolio/DSC_0563.JPG"></a>
                 </div>
                 <div class="grid-item">
-                    <a class="image-hover-zoom" href="_img/gallery/2.jpg" data-lightbox="gallery-item"><img src="_img/gallery/2.jpg"></a>
+                    <a class="image-hover-zoom" href="_img/portfolio/IMG_0350.JPG" data-lightbox="gallery-item"><img src="_img/portfolio/IMG_0350.JPG"></a>
                 </div>
                 <div class="grid-item">
-                    <a class="image-hover-zoom" href="_img/gallery/3.jpg" data-lightbox="gallery-item"><img src="_img/gallery/3.jpg"></a>
+                    <a class="image-hover-zoom" href="_img/portfolio/IMG_0946.JPG" data-lightbox="gallery-item"><img src="_img/portfolio/IMG_0946.JPG"></a>
                 </div>
                 <div class="grid-item">
-                    <a class="image-hover-zoom" href="_img/gallery/4.jpg" data-lightbox="gallery-item"><img src="_img/gallery/4.jpg"></a>
+                    <a class="image-hover-zoom" href="_img/portfolio/X-two-cleaners.png" data-lightbox="gallery-item"><img src="_img/portfolio/X-two-cleaners.png"></a>
                 </div>
                 <div class="grid-item">
-                    <a class="image-hover-zoom" href="_img/gallery/5.jpg" data-lightbox="gallery-item"><img src="_img/gallery/5.jpg"></a>
+                    <a class="image-hover-zoom" href="_img/portfolio/NICK.jpg" data-lightbox="gallery-item"><img src="_img/portfolio/NICK.jpg"></a>
                 </div>
                 <div class="grid-item">
-                    <a class="image-hover-zoom" href="_img/gallery/6.jpg" data-lightbox="gallery-item"><img src="_img/gallery/6.jpg"></a>
+                    <a class="image-hover-zoom" href="_img/portfolio/068.JPG" data-lightbox="gallery-item"><img src="_img/portfolio/068.JPG"></a>
                 </div>
                 <div class="grid-item">
-                    <a class="image-hover-zoom" href="_img/gallery/7.jpg" data-lightbox="gallery-item"><img src="_img/gallery/7.jpg"></a>
+                    <a class="image-hover-zoom" href="_img/portfolio/X%20Dustmop.jpg" data-lightbox="gallery-item"><img src="_img/portfolio/X%20Dustmop.jpg"></a>
                 </div>
                 <div class="grid-item">
-                    <a class="image-hover-zoom" href="_img/gallery/8.jpg" data-lightbox="gallery-item"><img src="_img/gallery/8.jpg"></a>
+                    <a class="image-hover-zoom" href="_img/portfolio/073.JPG" data-lightbox="gallery-item"><img src="_img/portfolio/073.JPG"></a>
                 </div>
                 <div class="grid-item">
-                    <a class="image-hover-zoom" href="_img/gallery/9.jpg" data-lightbox="gallery-item"><img src="_img/gallery/9.jpg"></a>
+                    <a class="image-hover-zoom" href="_img/portfolio/087.JPG" data-lightbox="gallery-item"><img src="_img/portfolio/087.JPG"></a>
+                </div>
+                <div class="grid-item">
+                    <a class="image-hover-zoom" href="_img/portfolio/094.JPG" data-lightbox="gallery-item"><img src="_img/portfolio/094.JPG"></a>
+                </div>
+                <div class="grid-item">
+                    <a class="image-hover-zoom" href="_img/portfolio/128.JPG" data-lightbox="gallery-item"><img src="_img/portfolio/128.JPG"></a>
+                </div>
+                <div class="grid-item">
+                    <a class="image-hover-zoom" href="_img/portfolio/X%20Vacuum(1).jpg" data-lightbox="gallery-item"><img src="_img/portfolio/X%20Vacuum(1).jpg"></a>
+                </div>
+                <div class="grid-item">
+                    <a class="image-hover-zoom" href="_img/portfolio/168%20-%20Copy.JPG" data-lightbox="gallery-item"><img src="_img/portfolio/168%20-%20Copy.JPG"></a>
+                </div>
+                <div class="grid-item">
+                    <a class="image-hover-zoom" href="_img/portfolio/IMG_0034.JPG" data-lightbox="gallery-item"><img src="_img/portfolio/IMG_0034.JPG"></a>
                 </div>
             </div>
-            <!-- end: Gallery -->
+            <!-- end: portfolio -->
 
 
 
