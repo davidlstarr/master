@@ -10,8 +10,11 @@ require_once(__DIR__ . '/cache_buster.php');
 ?>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <meta http-equiv="content-type" content="text/html; charset=utf-8" />
-<meta name="author" content="INSPIRO" />
-<meta name="description" content="Themeforest Template Polo">
+<meta name="author" content="Master Maintenance" />
+<meta name="description" content="Established in 1981, Master Maintenance is a professional facility maintenance company that provides quality building services
+                        to commercial and industrial businesses in Ohio, Kentucky, and Indiana. We pride ourselves in providing the most professional service in the industry.
+                        Master Maintenance is a professional janitorial and building service company dedicated to meeting the needs of its customer as identified in the work specifications. We provide services to commercial, industrial, and institutional clients who value the importance of a clean environment.
+                        The most vital component of its company is the people. Through proper selection, training, fair compensation, and respect, we are committed to developing a highly motivated work team.">
 <!-- Document title -->
 <title>Master Maintenance</title>
 <!-- Stylesheets & Fonts -->
