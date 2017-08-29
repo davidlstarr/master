@@ -6,7 +6,8 @@ var gulp = require('gulp'),
     $ = {
         intercept: require('gulp-intercept'),
         gutil: require('gulp-util'),
-        plumber: require('gulp-plumber')
+        plumber: require('gulp-plumber'),
+        imagemin: require('gulp-imagemin')
     };
 var onError = function (error) {
     $.gutil.log($.gutil.colors.cyan(error.message));
@@ -22,6 +23,11 @@ gulp.task('_brand_img', function () {
             return file;
         }))
         .pipe($.plumber({errorHandler: onError}))
+        .pipe($.imagemin({
+            optimizationLevel: 3,
+            progressive: true,
+            interlaced: true
+        }))
         .pipe(gulp.dest(config.paths.images.final.all))
         .pipe($.intercept(function (file) {
             $.gutil.log($.gutil.colors.yellow('Putting file: ' + file.path.replace(config.basePaths.local, '')));

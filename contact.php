@@ -19,10 +19,9 @@ $page_id = "contact-page";
     <!-- end: Header -->
 
     <!-- Page title -->
-    <section class="no-padding background-overlay-dark" data-height-lg="500" data-height-xs="200" data-height-sm="300" style="height: 459px">
+    <section class="no-padding" data-height-lg="500" data-height-xs="200" data-height-sm="300" style="height: 459px">
         <!-- Google map sensor -->
-        <script type="text/javascript" src="//maps.googleapis.com/maps/api/js?v=3.exp"></script>
-        <div  data-height-lg="200" class="map" data-map-address="301 West Elm St. Lima, Ohio" data-map-zoom="14" data-map-icon="_img/markers/marker1.png" data-map-type="ROADMAP"></div>
+        <iframe style="border: 0;" onClick="style.pointerEvents='none'" scrolling="no" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3023.0920500066145!2d-84.09673399999997!3d40.73799999999999!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x883eedf7456c721d%3A0x2d204c09f9cdaf1d!2s615+E+Elm+St%2C+Lima%2C+OH+45804!5e0!3m2!1sen!2sus!4v1434402431461" width="100%" height="500" frameborder="0"></iframe>
     </section>
     <!-- end: Page title -->
 

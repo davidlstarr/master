@@ -70,7 +70,7 @@ $page_id = "about-page";
                     <div class="col-md-12">Master Maintenance has been a <a href="http://www.bbb.org/lima/business-reviews/janitor-service/nicholas-d-starr-in-lima-oh-1481">BBB Accredited Business</a> since December 18, 1996.</div>
                     <br>
                     <br>
-                    <a href="http://www.bbb.org/lima/business-reviews/janitor-service/nicholas-d-starr-in-lima-oh-1481"><img width="10%" src="/_img/bbb.png" alt="BBB Accredited Business"></a>
+                    <a href="http://www.bbb.org/lima/business-reviews/janitor-service/nicholas-d-starr-in-lima-oh-1481"><img width="10%" src="./_img/bbb.png" alt="BBB Accredited Business"></a>
 
                 </div>
             </div>

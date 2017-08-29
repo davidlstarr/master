@@ -22,7 +22,7 @@
                     <div class="portfolio-item-wrap">
                         <div class="portfolio-slider">
                             <div class="carousel dots-inside dots-dark arrows-dark" data-items="1" data-loop="true" data-autoplay="true" data-animate-in="fadeIn" data-animate-out="fadeOut" data-autoplay-timeout="1500">
-                                <a href="#"><img style="height:400px" src="_img/portfolio/IMG_0107.JPG" alt=""></a>
+                                <a href="#"><img style="height:400px" src="_img/portfolio/X-two-cleaners.jpg" alt=""></a>
                                 <a href="#"><img style="height: 400px" src="_img/portfolio/IMG_0946.JPG" alt=""></a>
                             </div>
                         </div>

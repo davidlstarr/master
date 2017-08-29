@@ -9,7 +9,7 @@ $page_id = "about-page";
     <?php include(__DIR__ . '/head.php'); ?>
 </head>
 
-<body id="<?php echo $page_id?>">
+<body id="<?php echo $page_id ?>">
 
 <!-- Wrapper -->
 <div id="wrapper">
@@ -22,7 +22,7 @@ $page_id = "about-page";
     <!-- Inspiro Slider -->
     <div id="slider" class="inspiro-slider arrows-large arrows-creative dots-creative" data-height-xs="360">
         <!-- Slide 2 -->
-        <div class="slide background-overlay-dark kenburns" style="background-image:url('_img/IMG_0943.JPG);">
+        <div class="slide background-overlay-dark kenburns" style="background-image:url('_img/portfolio/IMG_0350.JPG);">
             <div class="container">
                 <div class="slide-captions text-center text-light">
                     <!-- Captions -->
@@ -51,7 +51,8 @@ $page_id = "about-page";
                             <a href="#"><i class="fa fa-building"></i></a>
                         </div>
                         <h3>Apartments</h3>
-                        <p>Lorem ipsum dolor sit amet, consecte adipiscing elit. Suspendisse condimentum porttitor cursumus.</p>
+                        <p>Lorem ipsum dolor sit amet, consecte adipiscing elit. Suspendisse condimentum porttitor
+                            cursumus.</p>
                     </div>
                 </div>
 
@@ -61,7 +62,8 @@ $page_id = "about-page";
                             <a href="#"><i class="fa fa-briefcase"></i></a>
                         </div>
                         <h3>Office</h3>
-                        <p>Lorem ipsum dolor sit amet, consecte adipiscing elit. Suspendisse condimentum porttitor cursumus.</p>
+                        <p>Lorem ipsum dolor sit amet, consecte adipiscing elit. Suspendisse condimentum porttitor
+                            cursumus.</p>
                     </div>
                 </div>
 
@@ -71,7 +73,8 @@ $page_id = "about-page";
                             <a href="#"><i class="fa fa-graduation-cap"></i></a>
                         </div>
                         <h3>Educational</h3>
-                        <p>Lorem ipsum dolor sit amet, consecte adipiscing elit. Suspendisse condimentum porttitor cursumus.</p>
+                        <p>Lorem ipsum dolor sit amet, consecte adipiscing elit. Suspendisse condimentum porttitor
+                            cursumus.</p>
                     </div>
                 </div>
                 <div class="col-md-4">
@@ -80,7 +83,8 @@ $page_id = "about-page";
                             <a href="#"><i class="fa fa-industry"></i></a>
                         </div>
                         <h3>Industrial</h3>
-                        <p>Lorem ipsum dolor sit amet, consecte adipiscing elit. Suspendisse condimentum porttitor cursumus.</p>
+                        <p>Lorem ipsum dolor sit amet, consecte adipiscing elit. Suspendisse condimentum porttitor
+                            cursumus.</p>
                     </div>
                 </div>
 
@@ -90,7 +94,8 @@ $page_id = "about-page";
                             <a href="#"><i class="fa fa-medkit"></i></a>
                         </div>
                         <h3>Medical</h3>
-                        <p>Lorem ipsum dolor sit amet, consecte adipiscing elit. Suspendisse condimentum porttitor cursumus.</p>
+                        <p>Lorem ipsum dolor sit amet, consecte adipiscing elit. Suspendisse condimentum porttitor
+                            cursumus.</p>
                     </div>
                 </div>
 
@@ -100,7 +105,8 @@ $page_id = "about-page";
                             <a href="#"><i class="fa fa-bed"></i></a>
                         </div>
                         <h3>Hotels</h3>
-                        <p>Lorem ipsum dolor sit amet, consecte adipiscing elit. Suspendisse condimentum porttitor cursumus.</p>
+                        <p>Lorem ipsum dolor sit amet, consecte adipiscing elit. Suspendisse condimentum porttitor
+                            cursumus.</p>
                     </div>
                 </div>
             </div>

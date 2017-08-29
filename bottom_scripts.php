@@ -7,13 +7,13 @@
  */
 ?>
 <!--Plugins-->
-<script src="_js/jquery.js"></script>
-<script src="_js/plugins.js"></script>
+<script src="_js/jquery.js<?php echo $cache_buster_version?>"></script>
+<script src="_js/plugins.js<?php echo $cache_buster_version?>" defer></script>
 
 <!--Template functions-->
-<script src="_js/functions.js"></script>
+<script src="_js/functions.js<?php echo $cache_buster_version?>" defer></script>
 
-<script id="__bs_script__">//<![CDATA[
+<!--<script id="__bs_script__">//<![CDATA[
     document.write("<script async src='http://HOST:3000/browser-sync/browser-sync-client.js?v=2.18.12'><\/script>".replace("HOST", location.hostname));
-    //]]></script>
+    //]]></script>-->
 
