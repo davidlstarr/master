@@ -6,101 +6,75 @@
  * Time: 7:16 PM
  */
 ?>
-<section class="background-grey" style="padding: 80px 0 0 0;">
+<section class="background-grey" style="padding: 80px 0 80px 0;">
     <div class="container">
-        <div class="heading text-left">
-            <div class="heading content-headline">
-                <h2 style="background-color: #F6F6F6">SERVICES</h2>
+        <h2 class="title" style="margin-bottom: 50px">OUR SERVICES</h2>
+
+        <div class="row">
+            <div class="col-md-4">
+                <div class="icon-box effect medium border center">
+                    <div class="icon">
+                        <a href="#"><i class="fa fa-building"></i></a>
+                    </div>
+                    <h3>Apartments</h3>
+                    <p>Lorem ipsum dolor sit amet, consecte adipiscing elit. Suspendisse condimentum porttitor
+                        cursumus.</p>
+                </div>
+            </div>
+
+            <div class="col-md-4">
+                <div class="icon-box effect medium border center">
+                    <div class="icon">
+                        <a href="#"><i class="fa fa-briefcase"></i></a>
+                    </div>
+                    <h3>Office</h3>
+                    <p>Lorem ipsum dolor sit amet, consecte adipiscing elit. Suspendisse condimentum porttitor
+                        cursumus.</p>
+                </div>
+            </div>
+
+            <div class="col-md-4">
+                <div class="icon-box effect medium border center">
+                    <div class="icon">
+                        <a href="#"><i class="fa fa-graduation-cap"></i></a>
+                    </div>
+                    <h3>Educational</h3>
+                    <p>Lorem ipsum dolor sit amet, consecte adipiscing elit. Suspendisse condimentum porttitor
+                        cursumus.</p>
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div class="icon-box effect medium border center">
+                    <div class="icon">
+                        <a href="#"><i class="fa fa-industry"></i></a>
+                    </div>
+                    <h3>Industrial</h3>
+                    <p>Lorem ipsum dolor sit amet, consecte adipiscing elit. Suspendisse condimentum porttitor
+                        cursumus.</p>
+                </div>
+            </div>
+
+            <div class="col-md-4">
+                <div class="icon-box effect medium border center">
+                    <div class="icon">
+                        <a href="#"><i class="fa fa-medkit"></i></a>
+                    </div>
+                    <h3>Medical</h3>
+                    <p>Lorem ipsum dolor sit amet, consecte adipiscing elit. Suspendisse condimentum porttitor
+                        cursumus.</p>
+                </div>
+            </div>
+
+            <div class="col-md-4">
+                <div class="icon-box effect medium border center">
+                    <div class="icon">
+                        <a href="#"><i class="fa fa-bed"></i></a>
+                    </div>
+                    <h3>Hotels</h3>
+                    <p>Lorem ipsum dolor sit amet, consecte adipiscing elit. Suspendisse condimentum porttitor
+                        cursumus.</p>
+                </div>
             </div>
         </div>
     </div>
-    <div class="portfolio">
-        <!-- Portfolio Itemss -->
-        <div id="portfolio" class="grid-layout portfolio-4-columns" data-margin="0">
-
-            <!-- portfolio item -->
-            <div class="portfolio-item img-zoom pf-illustrations pf-media pf-icons pf-Media">
-                <div class="portfolio-item-wrap">
-                    <div class="icon text-center">
-                        <div class="overlay-content">
-                            <h3>Office Cleaning</h3>
-                            <i class="fa fa-building" aria-hidden="true"></i>
-                        </div>
-                    </div>
-                        <div class="portfolio-image">
-                            <a href="#"><img height="206" src="_img/portfolio/DSC_0563_resize.JPG" alt=""></a>
-                        </div>
-                    <div class="portfolio-description">
-                        <a href="portfolio-page-grid-gallery.html">
-                           <!-- <h3>Office Cleaning</h3>-->
-                            <span>sit amet tempus ipsum purus dignissim ante. </span> </a>
-                    </div>
-                </div>
-            </div>
-            <!-- end: portfolio item -->
-
-            <!-- portfolio item -->
-            <div class="portfolio-item img-zoom pf-illustrations pf-media pf-icons pf-Media">
-                <div class="portfolio-item-wrap">
-                    <div class="icon text-center blue">
-                        <div class="overlay-content">
-                            <h3>Medical Cleaning</h3>
-                            <i class="fa fa-medkit" aria-hidden="true"></i>
-                        </div>
-                    </div>
-                    <div class="portfolio-image">
-                        <a href="#"><img src="_img/portfolio/IMG_0357%20(2).jpg" alt=""></a>
-                    </div>
-                    <div class="portfolio-description">
-                        <a href="portfolio-page-grid-gallery.html">
-                           <!-- <h3>Medical Cleaning</h3>-->
-                            <span>sit amet tempus ipsum purus dignissim ante. </span> </a>
-                    </div>
-                </div>
-            </div>
-            <!-- end: portfolio item -->
-
-            <!-- portfolio item -->
-            <div class="portfolio-item img-zoom pf-illustrations pf-media pf-icons pf-Media">
-                <div class="portfolio-item-wrap">
-                    <div class="icon text-center blue2">
-                        <div class="overlay-content">
-                            <h3>Industrial Cleaning</h3>
-                            <i class="fa fa-industry" aria-hidden="true"></i>
-                        </div>
-                    </div>
-                    <div class="portfolio-image">
-                        <a href="#"><img src="_img/portfolio/IMG_0350.JPG" alt=""></a>
-                    </div>
-                    <div class="portfolio-description">
-                        <a href="portfolio-page-grid-gallery.html">
-                            <!--<h3>Industrial Cleaning</h3>-->
-                            <span>sit amet tempus ipsum purus dignissim ante. </span> </a>
-                    </div>
-                </div>
-            </div>
-            <!-- end: portfolio item -->
-
-            <!-- portfolio item -->
-            <div class="portfolio-item img-zoom pf-illustrations pf-media pf-icons pf-Media">
-                <div class="portfolio-item-wrap">
-                    <div class="icon text-center maroon">
-                        <div class="overlay-content">
-                            <h3>Hotel Cleaning</h3>
-                            <i class="fa fa-bed" aria-hidden="true"></i>
-                        </div>
-                    </div>
-                    <div class="portfolio-image">
-                        <a href="#"><img src="_img/portfolio/X-two-cleaners.jpg" alt=""></a>
-                    </div>
-                    <div class="portfolio-description">
-                        <a href="portfolio-page-grid-gallery.html">
-                           <!-- <h3>Industrial Cleaning</h3>-->
-                            <span>sit amet tempus ipsum purus dignissim ante. </span> </a>
-                    </div>
-                </div>
-            </div>
-            <!-- end: portfolio item -->
-    </div>
-
 </section>

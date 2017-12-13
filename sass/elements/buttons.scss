@@ -548,7 +548,15 @@ font-weight: 600;
         margin-left: 2px;
     }
 }
-
+.btn-slider {
+    background-color: transparent !important;
+    border: 3px solid #38b544;
+    border-radius: 0;
+    text-shadow: none !important;
+    text-transform: none;
+    font-weight: 400;
+    font-size: 24px;
+}
 @media (max-width:991px) {
     .btn {
         &.btn-reveal.btn-reveal-left {

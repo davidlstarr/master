@@ -27,20 +27,21 @@ $page_id = 'home-page';
         <?php /*include(__DIR__ . '/portfolio.php'); */?>
         <!-- end: PORTFOLIO -->
 
-        <!-- SERVICES -->
-        <?php //include(__DIR__ . '/services.php'); ?>
-        <!-- end: SERVICES -->
 
         <!-- CALL TO ACTION -->
         <?php include(__DIR__ . '/maintenance_call_to_action.php'); ?>
         <!-- end: CALL TO ACTION -->
+
+        <!-- SERVICES -->
+        <?php include(__DIR__ . '/services.php'); ?>
+        <!-- end: SERVICES -->
 
         <!-- TESTIMONIALS -->
         <?php include(__DIR__ . '/testimonials.php'); ?>
         <!-- end: TESTIMONIALS -->
 
         <!-- CLIENTS -->
-        <?php include(__DIR__ . '/clients.php'); ?>
+        <?php //include(__DIR__ . '/clients.php'); ?>
         <!-- end: CLIENTS -->
 
         <!-- Footer -->

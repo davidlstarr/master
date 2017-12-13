@@ -210,7 +210,7 @@
     .btn{
         background-color: $green;
         border-color: $green;
-        border-radius: 32px;
+        //border-radius: 32px;
         font-size: 18px;
         padding: 16px 22px 16px 31px;
         font-weight: 800;
@@ -339,6 +339,23 @@
         width: 100%;
     }
 }
+.title{
+    color: #0B2E4E;
+    margin-bottom: 58px !important;
+    &:after{
+        border-top: 4px solid #0B2E4E !important;
+        content: "";
+        display: block;
+        margin-bottom: 0;
+        margin-top: 8px;
+        width: 53px;
+    }
+}
+.sub-title{
+    color: #737373;
+    font-weight: 400;
+}
+
 //Fancy headings
 .fancy-title {
     position: relative;

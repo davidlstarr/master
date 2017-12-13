@@ -8,11 +8,7 @@
 ?>
 <section>
     <div class="container">
-        <div class="heading text-left">
-            <div class="heading content-headline">
-                <h2>TESTIMONIALS & CLIENTS</h2>
-            </div>
-        </div>
+        <h2 class="title">TESTIMONIALS & CLIENTS</h2>
         <!-- Testimonials -->
         <div class="carousel arrows-visibile testimonial testimonial-single testimonial-blockquote" data-items="1" data-autoplay="true" data-animate-in="fadeIn" data-animate-out="fadeOut" data-loop="true">
 
