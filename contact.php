@@ -37,50 +37,60 @@ $page_id = "contact-page";
 
                     <div class="row m-t-40">
                         <div class="col-md-12" id="locations">
-                            <h4 class="text-uppercase">Locations</h4>
+                            <h4 class="text-uppercase">Locations:</h4>
                             <div class="col-md-6">
+                                <h5>Lima, Ohio</h5>
                                 <address>
                                     301 West Elm St.<br>
                                     Lima, Ohio 45801<br>
-                                    <abbr title="Phone">P:</abbr> (419) 229-3192 <br>(800) 686-3192
                                 </address>
                             </div>
                             <div class="col-md-6">
+                                <h5>Minster, OH</h5>
                                 <address>
                                     181 N. Main St.<br>
                                     Minster, OH  45865<br>
                                 </address>
                             </div>
                             <div class="col-md-6">
+                                <h5>Dublin, OH</h5>
                             <address>
                                 6200 Wilcox Rd.<br>
                                 Dublin, OH  43016<br>
                             </address>
                             </div>
                             <div class="col-md-6">
+                                <h5>Findlay, OH</h5>
                             <address>
                                 101 W. Sandusky St.<br>
                                 Findlay, OH  45840<br>
                             </address>
                             </div>
                             <div class="col-md-6">
+                                <h5>New Haven, IN </h5>
                             <address>
                                 405 Broadway St.<br>
                                 New Haven, IN  46774<br>
                             </address>
                             </div>
                             <div class="col-md-6">
+                                <h5>Northwood, OH </h5>
                             <address>
                                 953 Hanson St.<br>
                                 Northwood, OH  43619<br>
                             </address>
                             </div>
                             <div class="col-md-6">
+                                <h5>Cincinnati, OH </h5>
                             <address>
                                 691 Totten Way<br>
                                 Cincinnati, OH  45226<br>
                             </address>
                             </div>
+                        </div>
+                        <div class="col-md-12">
+                            <h4 class="text-uppercase">Phone:</h4>
+                            <abbr title="Phone">P:</abbr> (419) 229-3192 <br>(800) 686-3192
                         </div>
                     </div>
                 </div>
