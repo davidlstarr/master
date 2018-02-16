@@ -33,7 +33,7 @@ $page_id = 'home-page';
         <!-- end: CALL TO ACTION -->
 
         <!-- SERVICES -->
-        <?php include(__DIR__ . '/services.php'); ?>
+        <?php //include(__DIR__ . '/services.php'); ?>
         <!-- end: SERVICES -->
 
         <!-- TESTIMONIALS -->

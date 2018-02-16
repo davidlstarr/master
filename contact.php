@@ -31,23 +31,62 @@ $page_id = "contact-page";
             <div class="row">
                 <div class="col-md-6">
                     <h3 class="text-uppercase">Get In Touch</h3>
-                    <p>f you would like more information on our services, please fill out the
+                    <p>If you would like more information on our services, please fill out the
                         following form and we will call you promptly. When you have entered all the
                         information, click on the Submit button at the bottom of the form.</p>
 
                     <div class="row m-t-40">
-                        <div class="col-md-6">
+                        <div class="col-md-12" id="locations">
+                            <h4 class="text-uppercase">Locations</h4>
+                            <div class="col-md-6">
+                                <address>
+                                    301 West Elm St.<br>
+                                    Lima, Ohio 45801<br>
+                                    <abbr title="Phone">P:</abbr> (419) 229-3192 <br>(800) 686-3192
+                                </address>
+                            </div>
+                            <div class="col-md-6">
+                                <address>
+                                    181 N. Main St.<br>
+                                    Minster, OH  45865<br>
+                                </address>
+                            </div>
+                            <div class="col-md-6">
                             <address>
-                                301 West Elm St.<br>
-                                Lima, Ohio 45801<br>
-                                <abbr title="Phone">P:</abbr> (419) 229-3192, (800) 686-3192
+                                6200 Wilcox Rd.<br>
+                                Dublin, OH  43016<br>
                             </address>
+                            </div>
+                            <div class="col-md-6">
+                            <address>
+                                101 W. Sandusky St.<br>
+                                Findlay, OH  45840<br>
+                            </address>
+                            </div>
+                            <div class="col-md-6">
+                            <address>
+                                405 Broadway St.<br>
+                                New Haven, IN  46774<br>
+                            </address>
+                            </div>
+                            <div class="col-md-6">
+                            <address>
+                                953 Hanson St.<br>
+                                Northwood, OH  43619<br>
+                            </address>
+                            </div>
+                            <div class="col-md-6">
+                            <address>
+                                691 Totten Way<br>
+                                Cincinnati, OH  45226<br>
+                            </address>
+                            </div>
                         </div>
                     </div>
                 </div>
 
                 <div class="col-md-6">
-                    <form class="widget-contact-form" action="include/contact-form.php" role="form" method="post">
+                    <form class="widget-contact-form" action="_ajax/contact-form.php" role="form" method="post">
                         <div class="row">
                             <div class="form-group col-sm-6">
                                 <label for="name">Name</label>
@@ -68,10 +107,10 @@ $page_id = "contact-page";
                             <textarea type="text" name="widget-contact-form-message" rows="5" class="form-control required" placeholder="Enter your Message"></textarea>
                         </div>
 
-                        <div class="form-group">
+                        <!--<div class="form-group">
                             <script src='https://www.google.com/recaptcha/api.js'></script>
                             <div class="g-recaptcha" data-sitekey="6LddCxAUAAAAAKOg0-U6IprqOZ7vTfiMNSyQT2-M"></div>
-                        </div>
+                        </div>-->
                         <button class="btn btn-default" type="submit" id="form-submit"><i class="fa fa-paper-plane"></i>&nbsp;Send message</button>
                     </form>
 

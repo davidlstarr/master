@@ -44,13 +44,13 @@ $page_id = "about-page";
             <div class="row team-members team-members-card m-b-40">
                 <div class="col-md-3">
                     <div class="team-member">
-                        <div class="team-image">
+                        <div class="team-image display-none">
                             <img src="_img/team/6.jpg">
                         </div>
                         <div class="team-desc">
                             <h3>Nick Starr</h3>
                             <span>President</span>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing tristique hendrerit laoreet. </p>
+                            <p class="display-none">Lorem ipsum dolor sit amet, consectetur adipiscing tristique hendrerit laoreet. </p>
                             <div class="align-center">
                                 <a class="btn btn-xs btn-slide btn-light" href="mailto:Starr@master-maintenance.com" data-width="80">
                                     <i class="fa fa-envelope"></i>
@@ -62,13 +62,13 @@ $page_id = "about-page";
                 </div>
                 <div class="col-md-3">
                     <div class="team-member">
-                        <div class="team-image">
+                        <div class="team-image display-none">
                             <img src="_img/team/rocky.jpg">
                         </div>
                         <div class="team-desc">
                             <h3>Rocky Starr</h3>
                             <span>Sales / Operations</span>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing tristique hendrerit laoreet. </p>
+                            <p class="display-none">Lorem ipsum dolor sit amet, consectetur adipiscing tristique hendrerit laoreet. </p>
                             <div class="align-center">
                                 <a class="btn btn-xs btn-slide btn-light" href="mailto:Rocky@master-maintenance.com" data-width="80">
                                     <i class="fa fa-envelope"></i>
@@ -80,13 +80,13 @@ $page_id = "about-page";
                 </div>
                 <div class="col-md-3">
                     <div class="team-member">
-                        <div class="team-image">
+                        <div class="team-image display-none">
                             <img src="_img/team/8.jpg">
                         </div>
                         <div class="team-desc">
                             <h3>Marty Howard</h3>
                             <span>Sales / Operations</span>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing tristique hendrerit laoreet. </p>
+                            <p class="display-none">Lorem ipsum dolor sit amet, consectetur adipiscing tristique hendrerit laoreet. </p>
                             <div class="align-center">
                                 <a class="btn btn-xs btn-slide btn-light" href="mailto:marty@master-maintenance.com" data-width="80">
                                     <i class="fa fa-envelope"></i>
@@ -98,13 +98,13 @@ $page_id = "about-page";
                 </div>
                 <div class="col-md-3">
                     <div class="team-member">
-                        <div class="team-image">
+                        <div class="team-image display-none">
                             <img src="_img/team/9.jpg">
                         </div>
                         <div class="team-desc">
                             <h3>Mike Flynn</h3>
                             <span>Sales / Operations</span>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing tristique hendrerit laoreet. </p>
+                            <p class="display-none">Lorem ipsum dolor sit amet, consectetur adipiscing tristique hendrerit laoreet. </p>
                             <div class="align-center">
                                 <a class="btn btn-xs btn-slide btn-light" href="mailto:Flynn@master-maintenance.com" data-width="80">
                                     <i class="fa fa-envelope"></i>
@@ -116,13 +116,13 @@ $page_id = "about-page";
                 </div>
                 <div class="col-md-3">
                     <div class="team-member">
-                        <div class="team-image">
+                        <div class="team-image display-none">
                             <img src="_img/team/9.jpg">
                         </div>
                         <div class="team-desc">
                             <h3>Mike Jones</h3>
                             <span>Sales / Operations</span>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing tristique hendrerit laoreet. </p>
+                            <p class="display-none">Lorem ipsum dolor sit amet, consectetur adipiscing tristique hendrerit laoreet. </p>
                             <div class="align-center">
                                 <a class="btn btn-xs btn-slide btn-light" href="mailto:mastermaintenanceindiana@yahoo.com" data-width="80">
                                     <i class="fa fa-envelope"></i>
@@ -134,13 +134,13 @@ $page_id = "about-page";
                 </div>
                 <div class="col-md-3">
                     <div class="team-member">
-                        <div class="team-image">
+                        <div class="team-image display-none">
                             <img src="_img/team/mark_mooney.jpg">
                         </div>
                         <div class="team-desc">
                             <h3>Mark Mooney</h3>
                             <span>Sales / Operations</span>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing tristique hendrerit laoreet. </p>
+                            <p class="display-none">Lorem ipsum dolor sit amet, consectetur adipiscing tristique hendrerit laoreet. </p>
                             <div class="align-center">
                                 <a class="btn btn-xs btn-slide btn-light" href="mailto:mooney@master-maintenance.com" data-width="80">
                                     <i class="fa fa-envelope"></i>
@@ -152,13 +152,13 @@ $page_id = "about-page";
                 </div>
                 <div class="col-md-3">
                     <div class="team-member">
-                        <div class="team-image">
+                        <div class="team-image display-none">
                             <img src="_img/team/9.jpg">
                         </div>
                         <div class="team-desc">
                             <h3>James Hall</h3>
                             <span>Sales / Operations</span>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing tristique hendrerit laoreet. </p>
+                            <p class="display-none">Lorem ipsum dolor sit amet, consectetur adipiscing tristique hendrerit laoreet. </p>
                             <div class="align-center">
                                 <a class="btn btn-xs btn-slide btn-light" href="mailto:wflynn@master-maintenance.com" data-width="80">
                                     <i class="fa fa-envelope"></i>
@@ -170,13 +170,13 @@ $page_id = "about-page";
                 </div>
                 <div class="col-md-3">
                     <div class="team-member">
-                        <div class="team-image">
+                        <div class="team-image display-none">
                             <img src="_img/team/9.jpg">
                         </div>
                         <div class="team-desc">
                             <h3>Bob Riepenhoff</h3>
                             <span>Sales / Operations</span>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing tristique hendrerit laoreet. </p>
+                            <p class="display-none">Lorem ipsum dolor sit amet, consectetur adipiscing tristique hendrerit laoreet. </p>
                             <div class="align-center">
                                 <a class="btn btn-xs btn-slide btn-light" href="mailto:briepenhoff@yahoo.com" data-width="80">
                                     <i class="fa fa-envelope"></i>
@@ -188,13 +188,13 @@ $page_id = "about-page";
                 </div>
                 <div class="col-md-3">
                     <div class="team-member">
-                        <div class="team-image">
+                        <div class="team-image display-none">
                             <img src="_img/team/9.jpg">
                         </div>
                         <div class="team-desc">
                             <h3>Wendy Flynn</h3>
                             <span>Administrative Assistant</span>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing tristique hendrerit laoreet. </p>
+                            <p class="display-none">Lorem ipsum dolor sit amet, consectetur adipiscing tristique hendrerit laoreet. </p>
                             <div class="align-center">
                                 <a class="btn btn-xs btn-slide btn-light" href="mailto:briepenhoff@yahoo.com" data-width="80">
                                     <i class="fa fa-envelope"></i>

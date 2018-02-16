@@ -9,6 +9,7 @@
 
 /* Plugins */
 @import "base/plugins";
+@import "base/base";
 
 
 /*  Core */
@@ -31,6 +32,9 @@
 @import "components/shop";
 @import "components/forum";
 @import "components/about";
+
+/* Pages */
+@import "pages/pages";
 
 /*  Helpers */
 @import "components/helpers";

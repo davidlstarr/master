@@ -104,6 +104,9 @@
         top: -10px;
         letter-spacing: .2em;
         text-transform: uppercase;
+        @media (max-width: 736px) {
+            padding: 2px 0px;
+        }
     }
     i {
         position: relative;
@@ -203,6 +206,9 @@
         background: none;
         display: block;
         margin: 0;
+        @media (max-width: 736px) {
+            font-size: 27px;
+        }
     }
     .heading{
         margin-bottom: 9px !important;
@@ -342,6 +348,9 @@
 .title{
     color: #0B2E4E;
     margin-bottom: 58px !important;
+    @media (max-width: 736px) {
+        margin-bottom: 11px !important;
+    }
     &:after{
         border-top: 4px solid #0B2E4E !important;
         content: "";
@@ -354,6 +363,7 @@
 .sub-title{
     color: #737373;
     font-weight: 400;
+    padding-bottom: 10px;
 }
 
 //Fancy headings

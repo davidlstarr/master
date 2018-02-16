@@ -41,10 +41,84 @@ $page_id = "about-page";
         <div class="container">
             <div class="heading heading-center">
                 <h2>What we do</h2>
-                <p>Lorem ipsum dolor sit amet, consecte adipiscing elit. Suspendisse condimentum porttitor cursumus.</p>
+                <p>Master Maintenance provides the following Services:</p>
             </div>
-
-            <div class="row">
+            <table class="alternating-table" style="width: 100%;" border="0" cellspacing="2" cellpadding="2">
+                <tbody>
+                <tr>
+                    <td>Commercial</td>
+                </tr>
+                <tr>
+                    <td>Educational Institutes</td>
+                </tr>
+                <tr>
+                    <td>Medical</td>
+                </tr>
+                <tr>
+                    <td>Apartment Complexes</td>
+                </tr>
+                <tr>
+                    <td>Financial Institutions</td>
+                </tr>
+                <tr>
+                    <td>Retail</td>
+                </tr>
+                <tr>
+                    <td>Churches</td>
+                </tr>
+                </tr>
+                    <td>Industrial</td>
+                </tr>
+                <tr>
+                    <td>Recreational</td>
+                </tr>
+                <tr>
+                    <td>Lodging</td>
+                </tr>
+                </tr>
+                    <td>Aviation</td>
+                </tr>
+                <tr>
+                    <td>Janitorial</td>
+                </tr>
+                <tr>
+                    <td>Building Management</td>
+                </tr>
+                <tr>
+                    <td>Consulting</td>
+                </tr>
+                <tr>
+                    <td>Carpet Cleaning</td>
+                </tr>
+                <tr>
+                    <td>Hard Floor Care Programs for tile, wood, concrete</td>
+                </tr>
+                <tr>
+                    <td>Stone Restoration &amp; Maintenance</td>
+                </tr>
+                <tr>
+                    <td>Power Washing</td>
+                </tr>
+                <tr>
+                    <td>Industrial Cleaning</td>
+                </tr>
+                <tr>
+                    <td>Office Cleaning</td>
+                </tr>
+                <tr>
+                    <td>Window Cleaning</td>
+                </tr>
+                <tr>
+                    <td>General Cleaning</td>
+                </tr>
+                <tr>
+                    <td>Apartment Cleaning</td>
+                </tr>
+                <tr><td>and more!</td>
+                </tr>
+                </tbody>
+            </table>
+           <!-- <div class="row">
                 <div class="col-md-4">
                     <div class="icon-box effect medium border center">
                         <div class="icon">
@@ -109,7 +183,7 @@ $page_id = "about-page";
                             cursumus.</p>
                     </div>
                 </div>
-            </div>
+            </div>-->
         </div>
 
     </section>
