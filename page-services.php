@@ -22,7 +22,7 @@ $page_id = "about-page";
     <!-- Inspiro Slider -->
     <div id="slider" class="inspiro-slider arrows-large arrows-creative dots-creative" data-height-xs="360">
         <!-- Slide 2 -->
-        <div class="slide background-overlay-dark kenburns" style="background-image:url('_img/portfolio/IMG_0350.JPG);">
+        <div class="slide background-overlay-dark kenburns" style="background-image:url('_img/portfolio/073.JPG');">
             <div class="container">
                 <div class="slide-captions text-center text-light">
                     <!-- Captions -->
