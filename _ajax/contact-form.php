@@ -22,7 +22,7 @@ $subject = 'Request from Master Maintenance Website: ' . ( $_POST['widget-contac
 
 $message = isset($_POST["widget-contact-form-message"]) ? $_POST["widget-contact-form-message"] : null;
 
-//$recaptcha = $_POST['g-recaptcha-response'];
+$recaptcha = $_POST['g-recaptcha-response'];
 
 
 if( $_SERVER['REQUEST_METHOD'] == 'POST') {

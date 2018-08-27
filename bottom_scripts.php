@@ -10,6 +10,7 @@ require_once(__DIR__ . '/cache_buster.php');
 <!--Plugins-->
 <!--<script src="_js/jquery.js<?php /*echo $cache_buster_version*/?>"></script>
 <script src="_js/plugins.js<?php /*echo $cache_buster_version*/?>" defer></script>-->
+<script src='https://www.google.com/recaptcha/api.js'></script>
 <script src="/_js/script.min.js<?php echo $cache_buster_version; ?>" defer></script>
 <!--Template functions-->
 <!--<script src="_js/functions.js<?php /*echo $cache_buster_version*/?>" defer></script>-->

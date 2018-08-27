@@ -11,10 +11,9 @@ require_once(__DIR__ . '/cache_buster.php');
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <meta http-equiv="content-type" content="text/html; charset=utf-8" />
 <meta name="author" content="Master Maintenance" />
-<meta name="description" content="Established in 1981, Master Maintenance is a professional facility maintenance company that provides quality building services
-                        to commercial and industrial businesses in Ohio, Kentucky, and Indiana. We pride ourselves in providing the most professional service in the industry.
-                        Master Maintenance is a professional janitorial and building service company dedicated to meeting the needs of its customer as identified in the work specifications. We provide services to commercial, industrial, and institutional clients who value the importance of a clean environment.
-                        The most vital component of its company is the people. Through proper selection, training, fair compensation, and respect, we are committed to developing a highly motivated work team.">
+<meta name="Description" content="Master Maintenance - is a professional facility maintenance company that provides quality building cleaning services in Ohio (Columbus, Toledo, Cincinatti), Kentucky and Indiana.">
+<meta name="Keywords" content="cleaning services, building cleaning, building cleaning services, cleaning industry, cleaning janitorial, Cincinatti, Lima, Toledo, Columbus, cleaning offices, cleaning service, cleaning services commercial, industrial cleaning business, building management services, carpet cleaning, ttile, wood, concrete, stone restoration, power washing, Mason, Minster, Toledo, Ft. Wayne, Indiana, janitorial business, janitorial cleaning, maintenance and cleaning services, office cleaning, office cleaning company, professional cleaning services, window cleaning, janitorial maintenance, janitorial office cleaning ">
+
 <!-- Document title -->
 <title>Master Maintenance</title>
 <!-- Stylesheets & Fonts -->
@@ -31,3 +30,4 @@ require_once(__DIR__ . '/cache_buster.php');
 }else{
     echo "<link rel=\"stylesheet\" type=\"text/css\" media=\"screen, projection\" href=\"_css/styles.min.css" . $cache_buster_version . "\">\n";
 }?>
+<?php include(__DIR__ . '/analytics_tracking.php'); ?>

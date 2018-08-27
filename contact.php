@@ -114,13 +114,13 @@ $page_id = "contact-page";
                             </div>
                         </div>                                <div class="form-group">
                             <label for="message">Message</label>
-                            <textarea type="text" name="widget-contact-form-message" rows="5" class="form-control required" placeholder="Enter your Message"></textarea>
+                            <textarea name="widget-contact-form-message" rows="5" class="form-control required" placeholder="Enter your Message"></textarea>
                         </div>
 
-                        <!--<div class="form-group">
+                        <div class="form-group">
                             <script src='https://www.google.com/recaptcha/api.js'></script>
-                            <div class="g-recaptcha" data-sitekey="6LddCxAUAAAAAKOg0-U6IprqOZ7vTfiMNSyQT2-M"></div>
-                        </div>-->
+                            <div class="g-recaptcha" data-sitekey="6LeZ9WEUAAAAAHl-vHljUqbheooLYYmkFKQvt-ja"></div>
+                        </div>
                         <button class="btn btn-default" type="submit" id="form-submit"><i class="fa fa-paper-plane"></i>&nbsp;Send message</button>
                     </form>
 
