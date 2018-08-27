@@ -15,7 +15,7 @@ require_once(__DIR__ . '/cache_buster.php');
 <meta name="Keywords" content="cleaning services, building cleaning, building cleaning services, cleaning industry, cleaning janitorial, Cincinatti, Lima, Toledo, Columbus, cleaning offices, cleaning service, cleaning services commercial, industrial cleaning business, building management services, carpet cleaning, ttile, wood, concrete, stone restoration, power washing, Mason, Minster, Toledo, Ft. Wayne, Indiana, janitorial business, janitorial cleaning, maintenance and cleaning services, office cleaning, office cleaning company, professional cleaning services, window cleaning, janitorial maintenance, janitorial office cleaning ">
 
 <!-- Document title -->
-<title>Master Maintenance</title>
+<title>Master Maintenance - Professional janitorial and building service company dedicated to meeting the needs of its customer as identified in the work specifications. We provide services to commercial, industrial, and institutional clients who value the importance of a clean environment. Master Maintenance has been a BBB Accredited Business since December 18, 1996.</title>
 <!-- Stylesheets & Fonts -->
 <link href="https://fonts.googleapis.com/css?family=Fira+Sans:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i" rel="stylesheet">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css" />

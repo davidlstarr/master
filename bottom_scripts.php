@@ -7,6 +7,42 @@
  */
 require_once(__DIR__ . '/cache_buster.php');
 ?>
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org/",
+  "@type": "WebSite",
+  "name": "Master Maintenance",
+  "url": "http://www.master-maintenance.com"
+}
+{
+  "@context": "http://schema.org",
+  "@type": "ProfessionalService",
+  "name": "Master Maintenance",
+  "image": "http://www.master-maintenance.com/_img/mm_logo-01.svg",
+  "@id": "",
+  "url": "http://www.master-maintenance.com",
+  "telephone": "419-229-3192",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "301 West Elm St.",
+    "addressLocality": "Lima",
+    "addressRegion": "OH",
+    "postalCode": "45801",
+    "addressCountry": "US"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.7369446,
+    "longitude": -84.1081749
+  },
+  "openingHoursSpecification": {
+    "@type": "OpeningHoursSpecification",
+    "dayOfWeek": ,
+    "opens": "",
+    "closes": ""
+  }
+}
+</script>
 <!--Plugins-->
 <!--<script src="_js/jquery.js<?php /*echo $cache_buster_version*/?>"></script>
 <script src="_js/plugins.js<?php /*echo $cache_buster_version*/?>" defer></script>-->
