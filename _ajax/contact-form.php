@@ -5,6 +5,10 @@ header('Expires: ' . gmdate('r', 0));
 header('Content-type: application/json');
 
 require_once('PHPMailer/PHPMailerAutoload.php');
+//check if its an ajax request, exit if not
+if (!isset($_SERVER['HTTP_X_REQUESTED_WITH']) OR strtolower($_SERVER['HTTP_X_REQUESTED_WITH']) != 'xmlhttprequest') {
+    echo('Sorry Request must be Ajax POST'); exit;//exit script outputting json data
+}
 $mail = new PHPMailer();
 
 // Enter your email address. If you need multiple email recipes simply add a comma: email@domain.com, email2@domain.com

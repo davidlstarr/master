@@ -78,7 +78,7 @@ $page_id = "about-page";
                         </div>
                     </div>
                 </div>
-                <div class="col-md-3">
+               <!-- <div class="col-md-3">
                     <div class="team-member">
                         <div class="team-image display-none">
                             <img src="_img/team/8.jpg">
@@ -95,7 +95,7 @@ $page_id = "about-page";
                             </div>
                         </div>
                     </div>
-                </div>
+                </div>-->
                 <div class="col-md-3">
                     <div class="team-member">
                         <div class="team-image display-none">

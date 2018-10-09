@@ -11,7 +11,7 @@ require_once(__DIR__ . '/cache_buster.php');
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <meta http-equiv="content-type" content="text/html; charset=utf-8" />
 <meta name="author" content="Master Maintenance" />
-<meta name="Description" content="Master Maintenance - is a professional facility maintenance company that provides quality building cleaning services in Ohio (Columbus, Toledo, Cincinatti), Kentucky and Indiana.">
+<meta name="Description" content="Master Maintenance - is a professional facility maintenance company that provides quality building cleaning services in Ohio (Columbus, Cincinatti, Lima, and Toledo), Kentucky and Indiana.">
 <meta name="Keywords" content="cleaning services, building cleaning, building cleaning services, cleaning industry, cleaning janitorial, Cincinatti, Lima, Toledo, Columbus, cleaning offices, cleaning service, cleaning services commercial, industrial cleaning business, building management services, carpet cleaning, ttile, wood, concrete, stone restoration, power washing, Mason, Minster, Toledo, Ft. Wayne, Indiana, janitorial business, janitorial cleaning, maintenance and cleaning services, office cleaning, office cleaning company, professional cleaning services, window cleaning, janitorial maintenance, janitorial office cleaning ">
 
 <!-- Document title -->
