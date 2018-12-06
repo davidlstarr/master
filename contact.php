@@ -74,10 +74,10 @@ $page_id = "contact-page";
                             </address>
                             </div>
                             <div class="col-md-6">
-                                <h5>Northwood, OH </h5>
+                                <h5>Toledo, OH </h5>
                             <address>
-                                953 Hanson St.<br>
-                                Northwood, OH  43619<br>
+                                318 E. Manhattan Blvd.<br>
+                                Toledo, OH  43608<br>
                             </address>
                             </div>
                             <div class="col-md-6">
