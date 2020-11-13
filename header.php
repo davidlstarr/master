@@ -10,8 +10,9 @@
     <div id="header-wrap">
         <div class="container">
             <!--Logo-->
-            <div id="logo">
+            <div id="logo" onclick="location.href='index.php'">
                 <a href="index.php" class="logo" data-dark-logo="_img/logo-dark.png"> <img src="_img/mm_logo-01.svg" alt="Master Maintenance Logo"> </a>
+                <h1 style="display:none">Master Maintenance | Professional Building Maintenance</h1>
             </div>
             <!--End: Logo-->
 

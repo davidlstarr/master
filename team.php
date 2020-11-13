@@ -63,24 +63,6 @@ $page_id = "about-page";
                 <div class="col-md-3">
                     <div class="team-member">
                         <div class="team-image display-none">
-                            <img src="_img/team/9.jpg">
-                        </div>
-                        <div class="team-desc">
-                            <h3>Adam Kronshagen</h3>
-                            <span>Sales / Operations</span>
-                            <p class="display-none">Lorem ipsum dolor sit amet, consectetur adipiscing tristique hendrerit laoreet. </p>
-                            <div class="align-center">
-                                <a class="btn btn-xs btn-slide btn-light" href="mailto:adamkronshagen@yahoo.com" data-width="80">
-                                    <i class="fa fa-envelope"></i>
-                                    <span>Mail</span>
-                                </a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <!--<div class="col-md-3">
-                    <div class="team-member">
-                        <div class="team-image display-none">
                             <img src="_img/team/rocky.jpg">
                         </div>
                         <div class="team-desc">
@@ -95,7 +77,7 @@ $page_id = "about-page";
                             </div>
                         </div>
                     </div>
-                </div>-->
+                </div>
                <!-- <div class="col-md-3">
                     <div class="team-member">
                         <div class="team-image display-none">
@@ -240,7 +222,24 @@ $page_id = "about-page";
                         </div>
                     </div>
                 </div>
-
+                <div class="col-md-3">
+                    <div class="team-member">
+                        <div class="team-image display-none">
+                            <img src="_img/team/9.jpg">
+                        </div>
+                        <div class="team-desc">
+                            <h3>Paige Starr</h3>
+                            <span>Sales / Operations</span>
+                            <p class="display-none">Lorem ipsum dolor sit amet, consectetur adipiscing tristique hendrerit laoreet. </p>
+                            <div class="align-center">
+                                <a class="btn btn-xs btn-slide btn-light" href="mailto:paigestarr@master-maintenance.com" data-width="80">
+                                    <i class="fa fa-envelope"></i>
+                                    <span>Mail</span>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
                 <div class="col-md-3">
                     <div class="team-member">
                         <div class="team-image display-none">

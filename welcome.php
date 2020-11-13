@@ -13,19 +13,20 @@
         <div class="row">
 
             <div class="col-md-6">
-                <h3 class="sub-title">Company Profile</h3>
+                <h3 >Company Profile</h3>
                 <div class="heading heading text-left" style="margin-bottom: 20px;">
                     <span class="lead">Established in 1981, Master Maintenance is a professional facility maintenance
 company that provides quality building services to commercial and industrial
 businesses in Ohio, Kentucky, and Indiana. We pride ourselves in providing the
 most professional service in the industry </span>
                 </div>
-                <h3 class="sub-title">Mission Statement</h3>
+                <h3>Mission Statement</h3>
                 <div class="heading heading text-left">
-                    <span class="lead">Established in 1981, Master Maintenance is a professional facility maintenance
-company that provides quality building services to commercial and industrial
-businesses in Ohio, Kentucky, and Indiana. We pride ourselves in providing the
-most professional service in the industry </span>
+                    <span class="lead">Master Maintenance is a professional janitorial and building service company dedicated to meeting the needs of its customer as identified in the work specifications. We provide services to commercial, industrial, and institutional clients who value the importance of a clean environment.
+
+Master Maintenance believes that the most vital component of its company is our people. Through proper selection, training, fair compensation, and respect, we are committed to developing a highly motivated work team.
+
+</span>
                 </div>
             </div>
             <div id="portfolio" class="col-md-6 grid-layout portfolio-1-columns" data-margin="0">

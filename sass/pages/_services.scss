@@ -1,0 +1,10 @@
+table.alternating-table tr:nth-child(odd) {
+  background-color: #f6f6f6;
+}
+table.alternating-table td {
+  border-width: 1px;
+  border-style: solid;
+  border-color: #e2e2e2;
+  padding: 6px;
+  vertical-align: text-top;
+}

@@ -12,7 +12,7 @@
         <div class="heading heading-center m-b-40">
             <h2>PROFESSIONAL MAINTENANCE SERVICES</h2>
         </div>
-        <p class="lead">We offer a range of services for both businesses and individuals companies, consectetur adipiscing elit. Morbi sagittis, sem quis lacinia faucibus, orci ipsum gravida tortor.</p>
+        <p class="lead">For your utmost convenience, we have offices situated around the Ohio area in Cincinnati, Findlay, Lima, Mason, Minster, and Toledo. We are also located in Ft. Wayne, Indiana. So stop by or contact us today!</p>
 
         <a href="contact.php" class="btn btn-slider" style="border-color: #38b544"><span>CONTACT US TODAY <i class="fa fa-angle-right" aria-hidden="true"></i></span></a>
     </div>

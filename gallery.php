@@ -19,7 +19,7 @@ $page_id = "contact-page";
     <!-- end: Header -->
 
     <!-- Page title -->
-    <section id="page-title" class="background-overlay-dark" data-parallax-image="_img/portfolio/X-two-cleaners.png">
+    <section id="page-title" class="background-overlay-dark" data-parallax-image="_img/portfolio/073.JPG">
         <div class="container">
             <div class="page-title">
                 <h1>GALLERY</h1>

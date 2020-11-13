@@ -11,10 +11,16 @@
         <nav>
             <ul>
                 <!--<li><a href="index.html">Home</a></li>-->
-                <li><a href="about.php">About Us</a></li>
+                <li class="dropdown-submenu"><a href="#">About Us</a>
+                    <ul class="dropdown-menu">
+                        <li><a href="about.php">Company Profile</a></li>
+                        <li><a href="safety.php">Safety</a></li>
+                        <li><a href="page-services.php">Services</a></li>
+                    </ul>
+
+                </li>
                 <li><a href="testimonials_page.php">Testimonials</a></li>
                 <li><a href="gallery.php">Gallery</a></li>
-                <li><a href="page-services.php">Services</a></li>
                 <li><a href="team.php">Our Team</a></li>
                 <li><a href="contact.php">Contact Us</a></li>
                 <?php/*<li class="dropdown"> <a href="#">Features</a>

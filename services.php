@@ -17,8 +17,8 @@
                         <a href="#"><i class="fa fa-building"></i></a>
                     </div>
                     <h3>Apartments</h3>
-                    <p>Lorem ipsum dolor sit amet, consecte adipiscing elit. Suspendisse condimentum porttitor
-                        cursumus.</p>
+                   <!-- <p>Lorem ipsum dolor sit amet, consecte adipiscing elit. Suspendisse condimentum porttitor
+                        cursumus.</p>-->
                 </div>
             </div>
 
@@ -28,8 +28,8 @@
                         <a href="#"><i class="fa fa-briefcase"></i></a>
                     </div>
                     <h3>Office</h3>
-                    <p>Lorem ipsum dolor sit amet, consecte adipiscing elit. Suspendisse condimentum porttitor
-                        cursumus.</p>
+                   <!-- <p>Lorem ipsum dolor sit amet, consecte adipiscing elit. Suspendisse condimentum porttitor
+                        cursumus.</p>-->
                 </div>
             </div>
 
@@ -39,8 +39,8 @@
                         <a href="#"><i class="fa fa-graduation-cap"></i></a>
                     </div>
                     <h3>Educational</h3>
-                    <p>Lorem ipsum dolor sit amet, consecte adipiscing elit. Suspendisse condimentum porttitor
-                        cursumus.</p>
+                  <!--  <p>Lorem ipsum dolor sit amet, consecte adipiscing elit. Suspendisse condimentum porttitor
+                        cursumus.</p>-->
                 </div>
             </div>
             <div class="col-md-4">
@@ -49,8 +49,8 @@
                         <a href="#"><i class="fa fa-industry"></i></a>
                     </div>
                     <h3>Industrial</h3>
-                    <p>Lorem ipsum dolor sit amet, consecte adipiscing elit. Suspendisse condimentum porttitor
-                        cursumus.</p>
+                   <!-- <p>Lorem ipsum dolor sit amet, consecte adipiscing elit. Suspendisse condimentum porttitor
+                        cursumus.</p>-->
                 </div>
             </div>
 
@@ -60,8 +60,8 @@
                         <a href="#"><i class="fa fa-medkit"></i></a>
                     </div>
                     <h3>Medical</h3>
-                    <p>Lorem ipsum dolor sit amet, consecte adipiscing elit. Suspendisse condimentum porttitor
-                        cursumus.</p>
+                   <!-- <p>Lorem ipsum dolor sit amet, consecte adipiscing elit. Suspendisse condimentum porttitor
+                        cursumus.</p>-->
                 </div>
             </div>
 
@@ -71,8 +71,8 @@
                         <a href="#"><i class="fa fa-bed"></i></a>
                     </div>
                     <h3>Hotels</h3>
-                    <p>Lorem ipsum dolor sit amet, consecte adipiscing elit. Suspendisse condimentum porttitor
-                        cursumus.</p>
+                   <!-- <p>Lorem ipsum dolor sit amet, consecte adipiscing elit. Suspendisse condimentum porttitor
+                        cursumus.</p>-->
                 </div>
             </div>
         </div>

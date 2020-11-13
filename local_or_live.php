@@ -5,4 +5,4 @@
  * Date: 4/21/16
  * Time: 11:45 PM
  */
-$local = true; //SET TO true if testing local, SET TO false for live
+$local = false; //SET TO true if testing local, SET TO false for live
