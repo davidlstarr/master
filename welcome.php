@@ -15,7 +15,7 @@
             <div class="col-md-6">
                 <h3 >Company Profile</h3>
                 <div class="heading heading text-left" style="margin-bottom: 20px;">
-                    <span class="lead">Established in 1981, Master Maintenance is a professional facility maintenance
+                    <span class="lead">Established in 1981, Master Maintenance is the top cleaning company in Columbus and Toledo, Ohio. We are a professional facility maintenance
 company that provides quality building services to commercial and industrial
 businesses in Ohio, Kentucky, and Indiana. We pride ourselves in providing the
 most professional service in the industry </span>
